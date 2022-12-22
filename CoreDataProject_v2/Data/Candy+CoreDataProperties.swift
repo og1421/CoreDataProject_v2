@@ -22,9 +22,6 @@ extension Candy {
     public var unwrappedName: String {
         name ?? "Unknown"
     }
-    
-    
-
 }
 
 extension Candy : Identifiable {
